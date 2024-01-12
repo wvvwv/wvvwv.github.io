@@ -302,7 +302,7 @@
 			'value': !0x0
 		}), _0x2d01db[_0x667a63(0x4ea)] = void 0x0, _0x2d01db[_0x667a63(0x4ea)] = {
 			'stepsItem': {
-				'title': '情侣飞行棋',
+				'title': '飞行棋',
 				'desc': '',
 				'iconSize': 0x11,
 				'error': !0x1
@@ -1960,7 +1960,7 @@
 									'isQuit': !0x0,
 									'isEntry': !0x0
 								}, __uniConfig[_0xc4bf79(0x42a)], {
-									'navigationBarTitleText': _0xc4bf79(0x25d),
+									'navigationBarTitleText':'',
 									'navigationStyle': _0xc4bf79(0x235),
 									'enablePullDownRefresh': !0x1
 								})
@@ -3550,7 +3550,7 @@
 		];
 		var _0x430b66 = [{
 			'id': 0x1,
-			'title':'',
+			'title':_0xd52b63(0x45a),
 			'color': '#3498DB',
 			'url': _0xd52b63(0x52e),
 			'goFlag': !0x1,
