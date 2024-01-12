@@ -1987,7 +1987,7 @@
 							return _0x41ec57(_0x5bcb34(0x5d0), {
 								'props': Object[_0x5bcb34(0x422)]({}, __uniConfig[
 									_0x5bcb34(0x42a)], {
-									'navigationBarTitleText': '',
+									'navigationBarTitleText': '飞行棋',
 									'navigationStyle': _0x5bcb34(0x235),
 									'enablePullDownRefresh': !0x1
 								})
@@ -2011,7 +2011,7 @@
 							return _0x5eadcc(_0x51eb67(0x5d0), {
 								'props': Object[_0x51eb67(0x422)]({}, __uniConfig[
 									_0x51eb67(0x42a)], {
-									'navigationBarTitleText': '',
+									'navigationBarTitleText': '飞行棋',
 									'navigationStyle': _0x51eb67(0x235),
 									'enablePullDownRefresh': !0x1
 								})
@@ -2035,7 +2035,7 @@
 							return _0x4909fc('Page', {
 								'props': Object[_0x500f4e(0x422)]({}, __uniConfig[
 									_0x500f4e(0x42a)], {
-									'navigationBarTitleText': '',
+									'navigationBarTitleText': '飞行棋',
 									'navigationStyle': 'custom',
 									'enablePullDownRefresh': !0x1
 								})
@@ -2059,7 +2059,7 @@
 							return _0x57b11a(_0x5069e7(0x5d0), {
 								'props': Object['assign']({}, __uniConfig[_0x5069e7(
 									0x42a)], {
-									'navigationBarTitleText': '',
+									'navigationBarTitleText': '飞行棋',
 									'navigationStyle': _0x5069e7(0x235),
 									'enablePullDownRefresh': !0x1
 								})
