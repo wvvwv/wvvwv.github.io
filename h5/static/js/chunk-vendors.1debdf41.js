@@ -37376,7 +37376,7 @@ a0_0x5bbab6(), (window['webpackJsonp'] = window['webpackJsonp'] || [])[a0_0x341f
 							'apiShowTopWindow': !0x1,
 							'apiShowLeftWindow': !0x1,
 							'apiShowRightWindow': !0x1,
-							'navigationBarTitleText': '',
+							'navigationBarTitleText': '飞行棋',
 							'maxWidthMeidaQuery': !0x1
 						};
 					},
