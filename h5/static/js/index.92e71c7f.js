@@ -302,7 +302,7 @@
 			'value': !0x0
 		}), _0x2d01db[_0x667a63(0x4ea)] = void 0x0, _0x2d01db[_0x667a63(0x4ea)] = {
 			'stepsItem': {
-				'title': '',
+				'title': '情侣飞行棋',
 				'desc': '',
 				'iconSize': 0x11,
 				'error': !0x1
@@ -4149,15 +4149,15 @@
 			0x313)), _0x255f68(_0x295de4(0x16b));
 		var _0x32566b = [{
 			'id': 0x1,
-			'man': 'https://wvvwv.github.io/img/pPKMT58.png',
+			'man': 'https://xcxh.tk/img/pPKMT58.png',
 			'woman': _0x295de4(0x59e)
 		}, {
 			'id': 0x2,
-			'man': 'https://wvvwv.github.io/img/pPKucdK.png',
+			'man': 'https://xcxh.tk/img/pPKucdK.png',
 			'woman': _0x295de4(0x2b4)
 		}, {
 			'id': 0x3,
-			'man': 'https://wvvwv.github.io/img/pPMl38O.png',
+			'man': 'https://xcxh.tk/img/pPMl38O.png',
 			'woman': _0x295de4(0x5aa)
 		}];
 		_0x584a74[_0x295de4(0x288)] = _0x32566b, _0x584a74[_0x295de4(0x303)] = function(_0x66d585) {
@@ -6792,9 +6792,9 @@ function a1_0x220d() {
 		'info-circle', 'bedc', 'length', '为对方按摩脚底一分钟，舒缓疲劳', 'isUndefined', '用酒瓶紫薇并被拍视频紫薇私处被拍高清照', 'yyyy-mm-dd',
 		'AllData', '下体滴满蜂蜜让TA舌舔干净', 'rgb(', '嘴对嘴喂他喝一杯啤酒', 'switchTab', '女握男跟撩拨自己私处并呻吟', '4f7e',
 		'男方从后面缓慢插入妹妹20下，最后一下猛插到底', '女坐男脸上让TA舌舔私处一分钟', '给对方一个轻柔的脚部按摩，持续2分钟', '用一个浪漫的姿势双方拍照留念', 'onload', 'loadmore',
-		'https://wvvwv.github.io/img/pPKMLvj.png', 'linkType', 'config', 'remove', 'locales', '7f2c',
+		'https://xcxh.tk/img/pPKMLvj.png', 'linkType', 'config', 'remove', 'locales', '7f2c',
 		'使劲攥握男根使其达到最大硬度在被女王用大腿使劲夹住', 'appVersion', '男仆为女王做背部推油并JJ涂油为阴道推油', '相互拥抱并热情亲吻30秒', '高级版', '自拍一段接吻小视频',
-		'https://wvvwv.github.io/img/pPMl1PK.png', 'ddd1', '被JJ打脸后退3格', 'compressed', 'uOnReachBottom',
+		'https://xcxh.tk/img/pPMl1PK.png', 'ddd1', '被JJ打脸后退3格', 'compressed', 'uOnReachBottom',
 		'#b7b7b7', 'hasOwnProperty', 'App', 'routeIntercept', 'b639', 'mark', '亲吻吸吮TA乳头一分钟', 'circular', 'set',
 		'轻轻咬住对方的耳垂',
 		'@charset\x20\x22UTF-8\x22;\x0d\x0a/**\x0d\x0a\x20*\x20这里是uni-app内置的常用样式变量\x0d\x0a\x20*\x0d\x0a\x20*\x20uni-app\x20官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量\x0d\x0a\x20*\x20如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需\x20import\x20这个文件），方便用户通过搭积木的方式开发整体风格一致的App\x0d\x0a\x20*\x0d\x0a\x20*/\x0d\x0a/**\x0d\x0a\x20*\x20如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能\x0d\x0a\x20*\x0d\x0a\x20*\x20如果你的项目同样使用了scss预处理，你也可以直接在你的\x20scss\x20代码中使用如下变量，同时无需\x20import\x20这个文件\x0d\x0a\x20*/\x0d\x0a/*\x20颜色变量\x20*/\x0d\x0a/*\x20行为相关颜色\x20*/\x0d\x0a/*\x20文字基本颜色\x20*/\x0d\x0a/*\x20背景颜色\x20*/\x0d\x0a/*\x20边框颜色\x20*/\x0d\x0a/*\x20尺寸变量\x20*/\x0d\x0a/*\x20文字尺寸\x20*/\x0d\x0a/*\x20图片尺寸\x20*/\x0d\x0a/*\x20Border\x20Radius\x20*/\x0d\x0a/*\x20水平间距\x20*/\x0d\x0a/*\x20垂直间距\x20*/\x0d\x0a/*\x20透明度\x20*/\x0d\x0a/*\x20文章场景相关\x20*/\x0d\x0a/*\x20每个页面公共css\x20*/.u-line-1{display:-webkit-box!important;overflow:hidden;text-overflow:ellipsis;word-break:break-all;-webkit-line-clamp:1;-webkit-box-orient:vertical!important}.u-line-2{display:-webkit-box!important;overflow:hidden;text-overflow:ellipsis;word-break:break-all;-webkit-line-clamp:2;-webkit-box-orient:vertical!important}.u-line-3{display:-webkit-box!important;overflow:hidden;text-overflow:ellipsis;word-break:break-all;-webkit-line-clamp:3;-webkit-box-orient:vertical!important}.u-line-4{display:-webkit-box!important;overflow:hidden;text-overflow:ellipsis;word-break:break-all;-webkit-line-clamp:4;-webkit-box-orient:vertical!important}.u-line-5{display:-webkit-box!important;overflow:hidden;text-overflow:ellipsis;word-break:break-all;-webkit-line-clamp:5;-webkit-box-orient:vertical!important}.u-border{border-width:.5px!important;border-color:#dadbde!important;border-style:solid}.u-border-top{border-top-width:.5px!important;border-color:#dadbde!important;border-top-style:solid}.u-border-left{border-left-width:.5px!important;border-color:#dadbde!important;border-left-style:solid}.u-border-right{border-right-width:.5px!important;border-color:#dadbde!important;border-right-style:solid}.u-border-bottom{border-bottom-width:.5px!important;border-color:#dadbde!important;border-bottom-style:solid}.u-border-top-bottom{border-top-width:.5px!important;border-bottom-width:.5px!important;border-color:#dadbde!important;border-top-style:solid;border-bottom-style:solid}.u-reset-button{padding:0;background-color:initial;font-size:inherit;line-height:inherit;color:inherit}.u-reset-button::after{border:none}.u-hover-class{opacity:.7}.u-primary-light{color:#ecf5ff}.u-warning-light{color:#fdf6ec}.u-success-light{color:#f5fff0}.u-error-light{color:#fef0f0}.u-info-light{color:#f4f4f5}.u-primary-light-bg{background-color:#ecf5ff}.u-warning-light-bg{background-color:#fdf6ec}.u-success-light-bg{background-color:#f5fff0}.u-error-light-bg{background-color:#fef0f0}.u-info-light-bg{background-color:#f4f4f5}.u-primary-dark{color:#398ade}.u-warning-dark{color:#f1a532}.u-success-dark{color:#53c21d}.u-error-dark{color:#e45656}.u-info-dark{color:#767a82}.u-primary-dark-bg{background-color:#398ade}.u-warning-dark-bg{background-color:#f1a532}.u-success-dark-bg{background-color:#53c21d}.u-error-dark-bg{background-color:#e45656}.u-info-dark-bg{background-color:#767a82}.u-primary-disabled{color:#9acafc}.u-warning-disabled{color:#f9d39b}.u-success-disabled{color:#a9e08f}.u-error-disabled{color:#f7b2b2}.u-info-disabled{color:#c4c6c9}.u-primary{color:#3c9cff}.u-warning{color:#f9ae3d}.u-success{color:#5ac725}.u-error{color:#f56c6c}.u-info{color:#909399}.u-primary-bg{background-color:#3c9cff}.u-warning-bg{background-color:#f9ae3d}.u-success-bg{background-color:#5ac725}.u-error-bg{background-color:#f56c6c}.u-info-bg{background-color:#909399}.u-main-color{color:#303133}.u-content-color{color:#606266}.u-tips-color{color:#909193}.u-light-color{color:#c0c4cc}.u-safe-area-inset-top{padding-top:0;padding-top:constant(safe-area-inset-top);padding-top:env(safe-area-inset-top)}.u-safe-area-inset-right{padding-right:0;padding-right:constant(safe-area-inset-right);padding-right:env(safe-area-inset-right)}.u-safe-area-inset-bottom{padding-bottom:0;padding-bottom:constant(safe-area-inset-bottom);padding-bottom:env(safe-area-inset-bottom)}.u-safe-area-inset-left{padding-left:0;padding-left:constant(safe-area-inset-left);padding-left:env(safe-area-inset-left)}uni-toast{z-index:10090}uni-toast\x20.uni-toast{z-index:10090}::-webkit-scrollbar{display:none;width:0!important;height:0!important;-webkit-appearance:none;background:transparent}.hover-class{opacity:.8}uni-image{-webkit-touch-callout:none;\x0d\x0a\x20\x20/*\x20禁止长按菜单\x20*/pointer-events:none;\x0d\x0a\x20\x20/*\x20禁止触发点击事件\x20*/-webkit-user-select:none;user-select:none\x0d\x0a\x20\x20/*\x20禁止选择文本\x20*/}uni-page-body{background-color:#1f1f27}body.?%PAGE?%{background-color:#1f1f27}*{margin:0;padding:0;box-sizing:border-box}',
@@ -6863,7 +6863,7 @@ function a1_0x220d() {
 		'【福利】躺下对方给你按摩一分钟', 'fulfilled', '____9C0B6B4____', '4ff4', 'delta', 'mapMutations', 'lockVip',
 		'用黄瓜为女生按摩并测量下女生下体温度', 'isBuffer', 'enumerable', '被男主紧紧抓住两个基本点逐步深入一个中心', 'she在女生脸上（颜she）', 'ignoreCase',
 		'给对方按摩小腿一分钟', 'select', 'getRect', '请求失败！', 'brackets', 'tanabataSet', '00b4', '/pagesA/chess/chess?mode=3',
-		'吸咬对方的乳头20秒', '59eb', 'https://wvvwv.github.io/img/pPKu6Z6.png', '按在地板上抽插30秒', '脱掉一件衣服',
+		'吸咬对方的乳头20秒', '59eb', 'https://xcxh.tk/img/pPKu6Z6.png', '按在地板上抽插30秒', '脱掉一件衣服',
 		'/pagesA/chess/chess', 'getOwnPropertyNames', '捏ta奶头3下并配合呻吟', 'b421', '用嘴含住对手蛋蛋或阴蒂30秒', '口含热水给对手进行口30秒',
 		'a630', '#323233', '撅起PP，让对方打10下', 'f594', '交换内衣', '男后入女生喊口令（1、2、1）男听令行事', 'HH:mm:ss',
 		'被女王坐在脸上反复摩擦嘴巴伸出舌头疯狂舔', '酸奶倒胸部至下体让TA舌舔干净', 'JJ涂满奶油让女生舌舔干净', 'SystemAsyncLoading', 'isObject', 'ee51',
